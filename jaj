@@ -1,0 +1,124 @@
+Script started on Monday 11 March 2019 10:49:51 PM IST
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ls -l
+total 488
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:48 AAA.
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8728 Sep 26 15:40 [0m[01;32ma.out[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:36 asa.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1    533 Sep 26 15:19 binser.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    409 Sep 26 14:23 bubblesort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1  75399 Feb 14 15:49 ceccs17d45.07.02.2019.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1  48978 Mar  1 00:29 ceccs17d45.28.02.2019.txt
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:38 [01;34md1[0m
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:39 [01;34md3[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDesktop[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDocuments[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Mar 11 22:19 [01;34mDownloads[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 12  2016 dqueue.c
+-rw-r--r-- 1 cec-lab1 cec-lab1   8980 Feb 11  2016 examples.desktop
+-rw-rw-r-- 1 cec-lab1 cec-lab1     66 Feb 14 15:04 file1.dat
+-rw-rw-r-- 1 cec-lab1 cec-lab1     26 Feb 14 15:23 file1.txt
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8600 Feb 11  2016 [01;32mh[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1     51 Feb 11  2016 h.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Mar 11 22:49 jaj
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 11  2016 jithin.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1   4096 Mar 11 22:41 ls_i.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 12  2016 mergesort.c
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mMusic[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1 188416 Mar  1 00:35 Networking_task.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     54 Feb 14 14:58 new.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     29 Feb 14 15:00 numbers.txt
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPictures[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPublic[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1  20948 Feb 25 22:46 result.txt
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8720 Feb 12  2016 [01;32ms[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    382 Feb 12  2016 s.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    518 Sep 26 13:56 selsort.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   9080 Feb 26 02:10 [01;32msys1[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    593 Feb 26 02:08 sys1.c
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mTemplates[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mVideos[0m
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ls-[K -lt
+total 488
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Mar 11 22:49 jaj
+-rw-rw-r-- 1 cec-lab1 cec-lab1   4096 Mar 11 22:41 ls_i.txt
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Mar 11 22:19 [0m[01;34mDownloads[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1 188416 Mar  1 00:35 Networking_task.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1  48978 Mar  1 00:29 ceccs17d45.28.02.2019.txt
+-rwxrwxr-x 1 cec-lab1 cec-lab1   9080 Feb 26 02:10 [01;32msys1[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    593 Feb 26 02:08 sys1.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:48 AAA.
+-rw-rw-r-- 1 cec-lab1 cec-lab1  20948 Feb 25 22:46 result.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:36 asa.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1  75399 Feb 14 15:49 ceccs17d45.07.02.2019.txt
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:39 [01;34md3[0m
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:38 [01;34md1[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1     26 Feb 14 15:23 file1.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     66 Feb 14 15:04 file1.dat
+-rw-rw-r-- 1 cec-lab1 cec-lab1     29 Feb 14 15:00 numbers.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     54 Feb 14 14:58 new.txt
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8728 Sep 26 15:40 [01;32ma.out[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    533 Sep 26 15:19 binser.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    409 Sep 26 14:23 bubblesort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    518 Sep 26 13:56 selsort.c
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDocuments[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mMusic[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPictures[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPublic[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mTemplates[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mVideos[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDesktop[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 12  2016 dqueue.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8720 Feb 12  2016 [01;32ms[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    382 Feb 12  2016 s.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 12  2016 mergesort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 11  2016 jithin.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8600 Feb 11  2016 [01;32mh[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1     51 Feb 11  2016 h.c
+-rw-r--r-- 1 cec-lab1 cec-lab1   8980 Feb 11  2016 examples.desktop
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ls -ltr
+total 492
+-rw-r--r-- 1 cec-lab1 cec-lab1   8980 Feb 11  2016 examples.desktop
+-rw-rw-r-- 1 cec-lab1 cec-lab1     51 Feb 11  2016 h.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8600 Feb 11  2016 [0m[01;32mh[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 11  2016 jithin.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    750 Feb 12  2016 mergesort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    382 Feb 12  2016 s.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8720 Feb 12  2016 [01;32ms[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 12  2016 dqueue.c
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDesktop[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mVideos[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mTemplates[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPublic[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mPictures[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mMusic[0m
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Feb 12  2016 [01;34mDocuments[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1    518 Sep 26 13:56 selsort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    409 Sep 26 14:23 bubblesort.c
+-rw-rw-r-- 1 cec-lab1 cec-lab1    533 Sep 26 15:19 binser.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   8728 Sep 26 15:40 [01;32ma.out[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1     54 Feb 14 14:58 new.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     29 Feb 14 15:00 numbers.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1     66 Feb 14 15:04 file1.dat
+-rw-rw-r-- 1 cec-lab1 cec-lab1     26 Feb 14 15:23 file1.txt
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:38 [01;34md1[0m
+drwxrwxr-x 2 cec-lab1 cec-lab1   4096 Feb 14 15:39 [01;34md3[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1  75399 Feb 14 15:49 ceccs17d45.07.02.2019.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:36 asa.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1  20948 Feb 25 22:46 result.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1      0 Feb 25 22:48 AAA.
+-rw-rw-r-- 1 cec-lab1 cec-lab1    593 Feb 26 02:08 sys1.c
+-rwxrwxr-x 1 cec-lab1 cec-lab1   9080 Feb 26 02:10 [01;32msys1[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1  48978 Mar  1 00:29 ceccs17d45.28.02.2019.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1 188416 Mar  1 00:35 Networking_task.txt
+drwxr-xr-x 2 cec-lab1 cec-lab1   4096 Mar 11 22:19 [01;34mDownloads[0m
+-rw-rw-r-- 1 cec-lab1 cec-lab1   4096 Mar 11 22:41 ls_i.txt
+-rw-rw-r-- 1 cec-lab1 cec-lab1   4096 Mar 11 22:50 jaj
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ls -ab* -d
+ls: invalid option -- '*'
+Try 'ls --help' for more information.
+]0;cec-lab1@ceclab1-Veriton-Series: ~[01;32mcec-lab1@ceclab1-Veriton-Series[00m:[01;34m~[00m$ ls -ab
+[0m[01;34m.[0m                          .dmrc             Networking_task.txt
+[01;34m..[0m                         [01;34mDocuments[0m         new.txt
+AAA.                       [01;34mDownloads[0m         numbers.txt
+[01;32ma.out[0m                      dqueue.c          [01;34mPictures[0m
+asa.txt                    examples.desktop  .profile

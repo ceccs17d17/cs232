@@ -1,0 +1,30 @@
+cec-lab1@ceclab1-Veriton-Series:~$ sftp cs17d17@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d17@192.168.0.30's password: 
+Permission denied, please try again.
+cs17d17@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> put IMG_20190325_093735(1)(2).jpg
+stat IMG_20190325_093735(1)(2).jpg: No such file or directory
+sftp> put IMG_20190325_093735(1)(2).jpg
+Uploading IMG_20190325_093735(1)(2).jpg to /home/cs17d17/IMG_20190325_093735(1)(2).jpg
+IMG_20190325_093735(1)(2).jpg                 100%  117KB 116.5KB/s   00:00    
+sftp> putfile:///home/cec-lab1/Downloads/IMG_20190325_093735(1)(1).jpg 
+Invalid command.
+sftp> put IMG_20190325_093804.jpg
+stat IMG_20190325_093804.jpg: No such file or directory
+sftp> put IMG_20190325_093735.jpg
+stat IMG_20190325_093735.jpg: No such file or directory
+sftp> put IMG_20190325_093735(1)(1).jpg
+Uploading IMG_20190325_093735(1)(1).jpg to /home/cs17d17/IMG_20190325_093735(1)(1).jpg
+IMG_20190325_093735(1)(1).jpg                 100%  117KB 116.5KB/s   00:00    
+sftp> IMG_20190325_093804.jpg
+Invalid command.
+sftp> IMG_20190325_093804.jpg
+Invalid command.
+sftp> 
+
